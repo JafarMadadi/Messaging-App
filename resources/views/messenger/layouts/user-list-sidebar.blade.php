@@ -66,83 +66,6 @@
                     </div>
                     <span class="time">10m ago</span>
                 </div>
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_2.jpg" alt="User" class="img-fluid">
-                        <span class="inactive"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Hasan Masud</h5>
-                        <p><span>You</span> Hello, How are you?</p>
-                    </div>
-                    <span class="time">2h ago</span>
-                </div>
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_3.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Mamunur Rashid</h5>
-                        <p><span>You</span> Hi. .</p>
-                    </div>
-                    <span class="time">46m ago</span>
-                </div>
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_4.jpg" alt="User" class="img-fluid">
-                        <span class="inactive"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Palash munna</h5>
-                        <p><span>You</span> Hello. . .</p>
-                    </div>
-                    <span class="time">2h ago</span>
-                </div>
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_5.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Imrul Kayes</h5>
-                        <p><span>You</span> I'm Imrul Kayes</p>
-                    </div>
-                    <span class="time">46m ago</span>
-                </div>
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_6.jpg" alt="User" class="img-fluid">
-                        <span class="inactive"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Sumon Jahan</h5>
-                        <p><span>You</span> My name is Sumin Jahan</p>
-                    </div>
-                    <span class="time">2h ago</span>
-                </div>
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_1.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Jubaydul islam</h5>
-                        <p><span>You</span> Hi, What"s your name</p>
-                    </div>
-                    <span class="time">10m ago</span>
-                </div>
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_2.jpg" alt="User" class="img-fluid">
-                        <span class="inactive"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Hasan Masud</h5>
-                        <p><span>You</span> Hello, How are you?</p>
-                    </div>
-                    <span class="time">2h ago</span>
-                </div>
             </div>
         </div>
     </form>
@@ -153,84 +76,13 @@
             <div class="col-xl-3">
                 <a href="#" class="wsus__favourite_item">
                     <div class="img">
-                        <img src="../../../../public/assets/images/author_img_1.jpg" alt="User" class="img-fluid">
+                        <img src="public/assets/images/author_img_1.jpg" alt="User" class="img-fluid">
                         <span class="inactive"></span>
                     </div>
                     <p>mr hasin</p>
                 </a>
             </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_2.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <p>md Hassan</p>
-                </a>
-            </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_3.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <p>humayun</p>
-                </a>
-            </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_4.jpg" alt="User" class="img-fluid">
-                        <span class="inactive"></span>
-                    </div>
-                    <p>mr hasin</p>
-                </a>
-            </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_5.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <p>jahid mia</p>
-                </a>
-            </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_6.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <p>mr hasin</p>
-                </a>
-            </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_1.jpg" alt="User" class="img-fluid">
-                        <span class="inactive"></span>
-                    </div>
-                    <p>mr hasin</p>
-                </a>
-            </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_2.jpg" alt="User" class="img-fluid">
-                        <span class="inactive"></span>
-                    </div>
-                    <p>md Hassan</p>
-                </a>
-            </div>
-            <div class="col-xl-3">
-                <a href="#" class="wsus__favourite_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_3.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <p>humayun</p>
-                </a>
-            </div>
+
         </div>
     </div>
 
@@ -262,83 +114,7 @@
                 </div>
                 <span class="time">10m ago</span>
             </div>
-            <div class="wsus__user_list_item">
-                <div class="img">
-                    <img src="../../../../public/assets/images/author_img_2.jpg" alt="User" class="img-fluid">
-                    <span class="inactive"></span>
-                </div>
-                <div class="text">
-                    <h5>Hasan Masud</h5>
-                    <p><span>You</span> Hello, How are you?</p>
-                </div>
-                <span class="time">2h ago</span>
-            </div>
-            <div class="wsus__user_list_item">
-                <div class="img">
-                    <img src="../../../../public/assets/images/author_img_3.jpg" alt="User" class="img-fluid">
-                    <span class="active"></span>
-                </div>
-                <div class="text">
-                    <h5>Mamunur Rashid</h5>
-                    <p><span>You</span> Hi. .</p>
-                </div>
-                <span class="time">46m ago</span>
-            </div>
-            <div class="wsus__user_list_item">
-                <div class="img">
-                    <img src="../../../../public/assets/images/author_img_4.jpg" alt="User" class="img-fluid">
-                    <span class="inactive"></span>
-                </div>
-                <div class="text">
-                    <h5>Palash munna</h5>
-                    <p><span>You</span> Hello. . .</p>
-                </div>
-                <span class="time">2h ago</span>
-            </div>
-            <div class="wsus__user_list_item">
-                <div class="img">
-                    <img src="../../../../public/assets/images/author_img_5.jpg" alt="User" class="img-fluid">
-                    <span class="active"></span>
-                </div>
-                <div class="text">
-                    <h5>Imrul Kayes</h5>
-                    <p><span>You</span> I'm Imrul Kayes</p>
-                </div>
-                <span class="time">46m ago</span>
-            </div>
-            <div class="wsus__user_list_item">
-                <div class="img">
-                    <img src="../../../../public/assets/images/author_img_6.jpg" alt="User" class="img-fluid">
-                    <span class="inactive"></span>
-                </div>
-                <div class="text">
-                    <h5>Sumon Jahan</h5>
-                    <p><span>You</span> My name is Sumin Jahan</p>
-                </div>
-                <span class="time">2h ago</span>
-            </div>
-            <div class="wsus__user_list_item">
-                <div class="img">
-                    <img src="../../../../public/assets/images/author_img_1.jpg" alt="User" class="img-fluid">
-                    <span class="active"></span>
-                </div>
-                <div class="text">
-                    <h5>Jubaydul islam</h5>
-                    <p><span>You</span> Hi, What"s your name</p>
-                </div>
-                <span class="time">10m ago</span>
-            </div>
-            <div class="wsus__user_list_item">
-                <div class="img">
-                    <img src="../../../../public/assets/images/author_img_2.jpg" alt="User" class="img-fluid">
-                    <span class="inactive"></span>
-                </div>
-                <div class="text">
-                    <h5>Hasan Masud</h5>
-                    <p><span>You</span> Hello, How are you?</p>
-                </div>
-                <span class="time">2h ago</span>
-            </div>
+
         </div>
 
         <!-- <div class="wsus__user_list_liading">
