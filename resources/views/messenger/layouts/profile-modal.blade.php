@@ -5,9 +5,9 @@
             <div class="modal-body">
                 <form action="#">
 
-                    <div class="file">
+                    <div class="file profile-file">
                         <img src="{{ asset(auth()->user()->avatar) }}" alt="Upload"
-                             class="img-fluid">
+                             class="img-fluid profile-image-preview">
                         <label for="select_file"><i class="fal fa-camera-alt"></i></label>
                         <input id="select_file" type="file" hidden>
                     </div>
