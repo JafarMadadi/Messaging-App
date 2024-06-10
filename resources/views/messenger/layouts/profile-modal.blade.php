@@ -6,15 +6,15 @@
                 <form action="#">
 
                     <div class="file">
-                        <img src="../../../../public/assets/images/upload_img.jpg" alt="Upload"
+                        <img src="{{ asset(auth()->user()->avatar) }}" alt="Upload"
                              class="img-fluid">
                         <label for="select_file"><i class="fal fa-camera-alt"></i></label>
                         <input id="select_file" type="file" hidden>
                     </div>
                     <p>Edit information</p>
-                    <input type="text" placeholder="Name">
-                    <input type="email" placeholder="Email">
-                    <input type="text" placeholder="Phone">
+                    <input type="text" placeholder="Name" value="{{ auth()->user()->name }}">
+                    <input type="text" placeholder="User Id" value="{{ auth()->user()->user_name }}">
+                    <input type="email" placeholder="Email" value="{{ auth()->user()->email }}">
                     <p>Change password</p>
                     <div class="row">
                         <div class="col-xl-6">
