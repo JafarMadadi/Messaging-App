@@ -44,7 +44,25 @@
         $(document).ready(function () {
             $('.profile-form').on('submit', function (e) {
                 e.preventDefault();
-                alert('working');
+
+                let formData = $(this).serialize();
+
+                $.ajax({
+                    method: 'POST',
+                    url: '{{ route("profile.update") }}',
+                    data: formData,
+                    success: function (data) {
+
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(xhr)
+                        let errors = xhr.responseJSON.errors;
+
+                        $.each(errors, function (index, value){
+                            notyf.error(value[0]);
+                        })
+                    }
+                })
             })
         })
     </script>
