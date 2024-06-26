@@ -1,36 +1,20 @@
 <div class="wsus__user_list">
     <div class="wsus__user_list_header">
         <h3>
-                    <span><img src="../../../../public/assets/images/chat_list_icon.png" alt="Chat"
-                               class="img-fluid"></span>
+            <span><img src="../../../../public/assets/images/chat_list_icon.png" alt="Chat" class="img-fluid"></span>
             MESSAGES
         </h3>
         <span class="setting" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    <i class="fas fa-user-cog"></i>
-                </span>
+            <i class="fas fa-user-cog"></i>
+        </span>
 
-    @include('messenger.layouts.profile-modal')
+        @include('messenger.layouts.profile-modal')
 
     </div>
 
-    <form action="#" class="wsus__user_list_search">
-        <input class="input" type="text" placeholder="Search">
-        <div class="user_search_result">
-            <div class="wsus__user_list_area_height">
-                <div class="wsus__user_list_item">
-                    <div class="img">
-                        <img src="../../../../public/assets/images/author_img_1.jpg" alt="User" class="img-fluid">
-                        <span class="active"></span>
-                    </div>
-                    <div class="text">
-                        <h5>Jubaydul islam</h5>
-                        <p><span>You</span> Hi, What"s your name</p>
-                    </div>
-                    <span class="time">10m ago</span>
-                </div>
-            </div>
-        </div>
-    </form>
+    <!-- Search Form from seprated file loads here -->
+
+    @include('messenger.layouts.search-form');
 
     <div class="wsus__favourite_user">
         <div class="top">favourites</div>
